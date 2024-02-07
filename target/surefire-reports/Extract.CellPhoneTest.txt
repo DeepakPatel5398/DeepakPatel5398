@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Extract.CellPhoneTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 26.93 s -- in Extract.CellPhoneTest
