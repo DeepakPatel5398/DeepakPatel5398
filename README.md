@@ -1,33 +1,22 @@
-**About Me**
-Hi, I am Deepak Kumar Patel from Katni,MP. I completed my SDET programm from MASAI SCHOOL. I am having 6 months of experience in software testing web applications and device android & ios app testing.
 
-I am a dynamic and enthusiastic Software Tester with a passion for ensuring high-quality software. I have experience in testing processes and strive to contribute to their continuous improvement. My goal is to help deliver reliable, efficient, and error-free software solutions.
+<h1 align="center">Hi 👋, I'm Deepak Kumar Patel</h1>
+<h3 align="center">A passionate Software Tester from India</h3>
 
-**Experience**
-Conscent.ai [TSB Media Venture pvt ltd]   - 6 months
-Conscent.ai is a SaaS (Software as a Service) product developed by TSB Media Venture Pvt Ltd. It offers solutions for media publishing companies to help them generate and grow their revenue. By implementing restrictions such as paywalls and registration walls on their free online content, publishers can monetize their platforms more effectively.
+- 🌱 I’m currently learning **Java & SQL, Page Object Model**
 
+- 👨‍💻 All of my projects are available at [https://github.com/DeepakPatel5398?tab=repositories](https://github.com/DeepakPatel5398?tab=repositories)
 
-**Skills & Expertise**
-Manual Testing: Expertise in functional, regression, and user acceptance testing (UAT).
-Automation Testing: Familiar with tools such as Selenium, JUnit, or TestNG.
-Bug Tracking & Reporting: Proficient in using Jira, Bugzilla, and other tracking tools to report and manage defects.
-Test Case Design: Ability to design, implement, and execute test cases based on requirements and specifications.
-Performance Testing: Experience with load and stress testing using tools like JMeter.
-Version Control: Knowledge of Git and other version control systems.
-Continuous Integration: Familiar with CI/CD pipelines and tools like Jenkins.
+- 💬 Ask me about **Manual Testing, Selenium, API**
 
-**Key Strengths**
-Attention to detail and ability to identify potential software defects.
-Strong analytical and problem-solving skills.
-Excellent communication and team collaboration.
-Commitment to ensuring a high-quality product and user satisfaction.
+- 📫 How to reach me **deepak5398patel@gmail.com**
 
-**My Approach**
-Thorough Testing: I believe in testing software from a user’s perspective to ensure it meets all business requirements.
-Collaboration: I work closely with developers, product owners, and other stakeholders to understand requirements and resolve issues effectively.
-Continuous Improvement: I always look for ways to improve processes, tools, and practices to enhance efficiency and software quality.
+- 📄 Know about my experiences [https://resume-builder-test-new.masaischool.com/resume/public?resumeId=67f4d262cde98961361a98ca](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=67f4d262cde98961361a98ca)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/deepak-patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak-patel" height="30" width="40" /></a>
+</p>
 
-**Let's Connect**
-I'm always open to new opportunities and challenges. Feel free to reach out if you'd like to collaborate or discuss potential roles.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+
