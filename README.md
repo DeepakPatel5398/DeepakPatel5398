@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Deepak Kumar Patel</h1>
 <h3 align="center">A passionate Software Tester from India</h3>
 
+
+
 - 🌱 I’m currently learning **Java & SQL, Page Object Model**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DeepakPatel5398?tab=repositories](https://github.com/DeepakPatel5398?tab=repositories)
@@ -9,6 +11,8 @@
 - 💬 Ask me about **Manual Testing, Selenium, API**
 
 - 📫 How to reach me **deepak5398patel@gmail.com**
+
+- 📄 work experience : QA Intern | conscent.ai  | 6 months  (2sept2024 -7March2025)
 
 - 📄 Know about my experiences [https://resume-builder-test-new.masaischool.com/resume/public?resumeId=67f4d262cde98961361a98ca](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=67f4d262cde98961361a98ca)
 
